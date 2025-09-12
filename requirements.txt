@@ -3,6 +3,7 @@ langgraph
 langchain_community
 langchain_core
 langchain_openai
+langchain_ollama
 faiss_cpu
 streamlit
 tavily-python
